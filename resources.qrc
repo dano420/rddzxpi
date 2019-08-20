@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="lang">
+    <file>resources/lang/rddzxpi_fr.qm</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>rddzxpi-48.png</file>
+  </qresource>
+</RCC>
